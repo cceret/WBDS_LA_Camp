@@ -1,4 +1,4 @@
-### Repositorio de práctica del WBDS LA PreCamp
+# Repositorio de práctica del WBDS LA PreCamp
 **Autora**: Tere Guevara (cceret)
 
 ## Sobre Women in Bioinformatics and Data Sciencia Latin America
